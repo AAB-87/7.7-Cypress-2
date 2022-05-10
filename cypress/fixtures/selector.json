@@ -4,6 +4,6 @@
     "chooseFilm": ".movie",
     "hallOpening": "#start-sales",
     "chooseTimeSession": "a.page-nav__day:nth-of-type(4)",
-    "chooseChair": ".buying-scheme__wrapper > :nth-child(4) > :nth-child(7)",
+    "chooseChair": ".buying-scheme__wrapper > :nth-child(7) > :nth-child(8)",
     "pushButton": ".acceptin-button"
 }
